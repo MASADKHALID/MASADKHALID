@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad Khalid</h1>
 <h3 align="center">A passionate Software Engineer|Data Engineer|Data Analyst from Pakistan</h3>
 
-<p align="left"> <img src="https://github.com/user-attachments/assets/1edab25e-f719-4b26-bc64-b85702e955ce" alt="masadkhalid" /> </p>
-![pic2]()
+<p align="center"> <img src="https://github.com/user-attachments/assets/1edab25e-f719-4b26-bc64-b85702e955ce" alt="masadkhalid" /> </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masadkhalid" alt="masadkhalid" /></a> </p>
